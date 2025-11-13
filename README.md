@@ -25,7 +25,7 @@ This project builds a **linear regression model** to predict prompt quality metr
 ## 🧩 Run in Google Colab
 Click below to run the notebook instantly:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/openai-prompt-regression/blob/main/openai_prompt_regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SamudralaAjaykumarrr/openai-prompt-regression/blob/main/openai_prompt_regression.ipynb)
 
 ---
 
